@@ -11,3 +11,4 @@ machine-readable information for the TCGA dataset, mirrored from other sources. 
 | tissue-sites.csv | none | https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables/tissue-source-site-codes |
 | cbio_clinical.xlsx | none | https://www.cbioportal.org/study/summary?id=laml_tcga_pan_can_atlas_2018 |
 | tcga-institution-sites.csv | none | https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables/tissue-source-site-codes |
+| liu.xlsx | none | https://www.cell.com/cancer-cell/fulltext/S1535-6108(18)30114-4#supplementaryMaterial |
